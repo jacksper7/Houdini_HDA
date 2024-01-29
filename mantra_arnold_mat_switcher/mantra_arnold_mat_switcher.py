@@ -1,5 +1,5 @@
 import hou 
-
+## This tool right now only work for mantra and arnold material to switch ##
 
 def mat_con():
     assets = hou.selectedNodes()
