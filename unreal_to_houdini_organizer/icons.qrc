@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>organizer.png</file>
+  </qresource>
+</RCC>
