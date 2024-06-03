@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>noise3.png</file>
+    <file>noise5.png</file>
+  </qresource>
+  <qresource prefix="Icons">
+    <file>noise4.png</file>
+    <file>noizix_icon.ico</file>
+    <file>noizix_icon_1.ico</file>
+  </qresource>
+</RCC>
